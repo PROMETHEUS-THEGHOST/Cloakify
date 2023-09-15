@@ -6,8 +6,6 @@ Vaisakh Sriram
 
 # Why
 
-DLP systems, MLS devices, and SecOps analysts know what data to look for: 
-<img src=https://github.com/TryCatchHCF/Cloakify/blob/master/screenshots/payloadAcctSpreadsheet.png></img>
-So transform that data into something they're <b>not</b> looking for: 
-<img src=https://github.com/TryCatchHCF/Cloakify/blob/master/screenshots/CloakifyFactoryWorkflow.png></img>
+DLP systems, MLS devices, and SecOps analysts know what data to look for
+So transform that data into something they're <b>not</b> looking for
 
