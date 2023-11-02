@@ -1,11 +1,4 @@
-#!/usr/bin/python
-# 
-# Filename:  cloakifyFactory.py 
-#
-# Version: 1.0.1
-#
-# Author:  Joe Gervais (TryCatchHCF)
-#
+
 # Summary:  Cloakify Factory is part of the Cloakify Exfiltration toolset that transforms 
 # any fileype into lists of words / phrases / Unicode to ease exfiltration of data across 
 # monitored networks, defeat data whitelisting restrictions, hiding the data in plain 
